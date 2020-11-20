@@ -1,7 +1,7 @@
 import React from 'react';
-import s from '../../Friends/FriendsInfo/FriendsInfo.module.css';
+import s from './FriendsInfo.module.css';
 
-const ProfileInfo = () => {
+const FriendsInfo = () => {
     return (
         <div>
             <div>
@@ -14,4 +14,4 @@ const ProfileInfo = () => {
     )
 }
 
-export default ProfileInfo;
+export default FriendsInfo;
