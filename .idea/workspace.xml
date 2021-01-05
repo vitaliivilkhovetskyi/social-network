@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67334c22-0f11-4676-a2c9-da982753fc1f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kPsOZBAilMipnXX76eW5VdgJX8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="LET" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/hoc" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vitalii\Desktop\IT\My-programming-projects\React-first-project\my-app\src\assets\images" />
+      <recent name="C:\Users\vitalii\Desktop\IT\My-programming-projects\React-first-project\my-app\src\components\Profile\MyPosts\Post" />
+      <recent name="C:\Users\vitalii\Desktop\IT\My-programming-projects\React-first-project\my-app\src\components\Friends\TheirPosts\Post" />
+      <recent name="C:\Users\vitalii\Desktop\IT\My-programming-projects\React-first-project\my-app\src\components\Friends\FriendsInfo" />
+      <recent name="C:\Users\vitalii\Desktop\IT\My-programming-projects\React-first-project\my-app\src\components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\vitalii\Desktop\IT\My-programming-projects\React-first-project\my-app\src\hoc" />
+      <recent name="C:\Users\vitalii\Desktop\IT\My-programming-projects\React-first-project\my-app\src\components\common\Paginator" />
+      <recent name="C:\Users\vitalii\Desktop\IT\My-programming-projects\React-first-project\my-app\src\components\Profile\ProfileInfo" />
+      <recent name="C:\Users\vitalii\Desktop\IT\My-programming-projects\React-first-project\my-app\src\redux" />
+      <recent name="C:\Users\vitalii\Desktop\IT\My-programming-projects\React-first-project\my-app\src\components\common\FormControls" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.Paginator component tests.pages count is 11 but should be showed onlu 10">
+    <configuration name="Paginator component tests.if pages count is more 10 then button NEXT should be present" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/components/common/Paginator/Paginator.test.js" />
+      <test-names>
+        <test-name value="Paginator component tests" />
+        <test-name value="if pages count is more 10 then button NEXT should be present" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Paginator component tests.pages count is 11 but should be showed onlu 10" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/components/common/Paginator/Paginator.test.js" />
+      <test-names>
+        <test-name value="Paginator component tests" />
+        <test-name value="pages count is 11 but should be showed onlu 10" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProfileStatus component.callback should be called" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus.test.jsx" />
+      <test-names>
+        <test-name value="ProfileStatus component" />
+        <test-name value="callback should be called" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deploy" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="Jest.Paginator component tests.pages count is 11 but should be showed onlu 10" />
+        <item itemvalue="Jest.Paginator component tests.if pages count is more 10 then button NEXT should be present" />
+        <item itemvalue="Jest.ProfileStatus component.callback should be called" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67334c22-0f11-4676-a2c9-da982753fc1f" name="Default Changelist" comment="" />
+      <created>1605613530562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605613530562</updated>
+      <workItem from="1605613532333" duration="19749000" />
+      <workItem from="1605715640720" duration="548000" />
+      <workItem from="1605716190511" duration="35000" />
+      <workItem from="1605817878336" duration="32767000" />
+      <workItem from="1606168940656" duration="42434000" />
+      <workItem from="1606907537550" duration="22500000" />
+      <workItem from="1606990048420" duration="4286000" />
+      <workItem from="1607090180678" duration="27634000" />
+      <workItem from="1607462909141" duration="791000" />
+      <workItem from="1607588403662" duration="53830000" />
+      <workItem from="1608557512316" duration="100000" />
+      <workItem from="1608622772933" duration="100000" />
+      <workItem from="1608650084865" duration="1796000" />
+      <workItem from="1608651919275" duration="38000" />
+      <workItem from="1608651967396" duration="60000" />
+      <workItem from="1608652159378" duration="3692000" />
+      <workItem from="1609736883395" duration="22996000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605613709061">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1605613709061" />
+    <state x="925" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608651790696">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="925" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1608651790696" />
+    <state x="912" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609741353637">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="912" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1609741353637" />
+    <state x="964" y="161" key="FileChooserDialogImpl" timestamp="1605716223456">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="964" y="161" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605716223456" />
+    <state width="774" height="209" key="GridCell.Tab.0.bottom" timestamp="1609859828364">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="774" height="209" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1609859828364" />
+    <state width="774" height="209" key="GridCell.Tab.0.center" timestamp="1609859828364">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="774" height="209" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1609859828364" />
+    <state width="774" height="209" key="GridCell.Tab.0.left" timestamp="1609859828364">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="774" height="209" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1609859828364" />
+    <state width="774" height="209" key="GridCell.Tab.0.right" timestamp="1609859828364">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="774" height="209" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1609859828364" />
+    <state width="658" height="261" key="GridCell.Tab.1.bottom" timestamp="1608142089673">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="658" height="261" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608142089673" />
+    <state width="658" height="261" key="GridCell.Tab.1.center" timestamp="1608142089672">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="658" height="261" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1608142089672" />
+    <state width="658" height="261" key="GridCell.Tab.1.left" timestamp="1608142089672">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="658" height="261" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1608142089672" />
+    <state width="658" height="261" key="GridCell.Tab.1.right" timestamp="1608142089673">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="658" height="261" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1608142089673" />
+    <state width="658" height="261" key="GridCell.Tab.2.bottom" timestamp="1608142089673">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="658" height="261" key="GridCell.Tab.2.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608142089673" />
+    <state width="658" height="261" key="GridCell.Tab.2.center" timestamp="1608142089673">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="658" height="261" key="GridCell.Tab.2.center/0.0.1536.834@0.0.1536.834" timestamp="1608142089673" />
+    <state width="658" height="261" key="GridCell.Tab.2.left" timestamp="1608142089673">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="658" height="261" key="GridCell.Tab.2.left/0.0.1536.834@0.0.1536.834" timestamp="1608142089673" />
+    <state width="658" height="261" key="GridCell.Tab.2.right" timestamp="1608142089673">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="658" height="261" key="GridCell.Tab.2.right/0.0.1536.834@0.0.1536.834" timestamp="1608142089673" />
+    <state width="658" height="261" key="GridCell.Tab.3.bottom" timestamp="1608142089674">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="658" height="261" key="GridCell.Tab.3.bottom/0.0.1536.834@0.0.1536.834" timestamp="1608142089674" />
+    <state width="658" height="261" key="GridCell.Tab.3.center" timestamp="1608142089673">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="658" height="261" key="GridCell.Tab.3.center/0.0.1536.834@0.0.1536.834" timestamp="1608142089673" />
+    <state width="658" height="261" key="GridCell.Tab.3.left" timestamp="1608142089673">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="658" height="261" key="GridCell.Tab.3.left/0.0.1536.834@0.0.1536.834" timestamp="1608142089673" />
+    <state width="658" height="261" key="GridCell.Tab.3.right" timestamp="1608142089674">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="658" height="261" key="GridCell.Tab.3.right/0.0.1536.834@0.0.1536.834" timestamp="1608142089674" />
+    <state x="787" y="188" key="run.anything.popup" timestamp="1608094182646">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="787" y="188" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1608094182646" />
+    <state x="854" y="154" width="672" height="678" key="search.everywhere.popup" timestamp="1608133405521">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="854" y="154" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1608133405521" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/Profile/ProfileContainer.jsx</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
